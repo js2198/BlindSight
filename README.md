@@ -1,5 +1,5 @@
 # BlindSight
-BlindSight provides virtual eye for the blind people.
+BlindSight provides virtual eye to the blind people. <br />
 Using camera this app detects object in the surrounding and speaks the object detected in real-time.
 
 It can also be used with Raspberry-Pi using camera and speaker module along with it, so that solution becomes portable.
